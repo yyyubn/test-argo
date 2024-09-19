@@ -6,3 +6,6 @@ nameOverride: "yubin222"
 ##
 commonLabels:
   custom/label-test: yubin111
+
+service:
+  type: NodePort
